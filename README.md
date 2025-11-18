@@ -1,1 +1,1 @@
-# First
+# Dog breed project
